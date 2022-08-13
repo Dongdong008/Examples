@@ -13,8 +13,7 @@ dns:
   enhanced-mode: fake-ip
   nameserver:
     - 223.5.5.5
-    - https://dns.tex0n.net:784/dns-query
-    - tls://dns.tex0n.net:789
+    - 119.29.29.29
   fake-ip-range: 198.18.0.1/16
   fake-ip-filter:
     - "*.lan"
