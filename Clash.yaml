@@ -92,7 +92,7 @@ proxy-providers:
 
   All: &All #建立锚点
     type: http
-    url: "在此引号内放入你的订阅链接，多个订阅请使用Sub-Store"
+    url: "https://xn--4gq62f52gdss.com/api/v1/client/subscribe?token=b7f49c675bb343e562dfb162f571d253"
     interval: 86400
     path: ./all.yaml
     health-check:
